@@ -1,0 +1,15 @@
+{
+	"components": [
+		{
+			"id": "exmpleplugin",
+			"type": "VIEW_PLUGIN",
+			"allowMultipleInstances": false,
+			"name": "rits.custom.plugin.exmpleplugin.exmpleplugin",
+			"propertyEditor": "rits.custom.plugin.exmpleplugin.exmpleplugin.builder.PropertyEditor",
+			"i18n": "rits.custom.plugin.exmpleplugin.exmpleplugin.i18n.i18n",
+            "productionProcessEnabled": true,
+           "productionProcessTitle": "exmpleplugin",
+			"supportedPodTypes": ["WORK_CENTER","OPERATION","ORDER"]
+		}   
+	]
+}
